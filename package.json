@@ -6,6 +6,9 @@
   "author": "Karl Yang <ccok12345678@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^3.9.1"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   }
 }
