@@ -1,0 +1,11 @@
+{
+  "name": "HexSchool-Boostrap4-Final-Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ccok12345678/HexSchool-Boostrap4-Final-Task.git",
+  "author": "Karl Yang <ccok12345678@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
