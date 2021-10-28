@@ -1,1 +1,1 @@
-{"version":3,"sources":["all.scss"],"names":[],"mappings":"AAEA,GACE,MAAA","file":"all.css","sourcesContent":["$primary-color: orange;\r\n\r\nh1 {\r\n  color: $primary-color;\r\n}"]}
+{"version":3,"sources":["all.scss"],"names":[],"mappings":"AAEA;EACE,aAHoB,EAAA","file":"all.css","sourcesContent":["$primary-color: orange;\r\n\r\nh1 {\r\n  color: $primary-color;\r\n}"]}
